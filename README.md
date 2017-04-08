@@ -1,0 +1,2 @@
+# JavaPuzzles
+Coding puzzles 
