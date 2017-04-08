@@ -1,2 +1,2 @@
 # JavaPuzzles
-Coding puzzles 
+My solutions to coding puzzles found online
